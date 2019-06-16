@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.org/mich561d/CA3_TTT.svg?branch=master)](https://travis-ci.org/mich561d/CA3_TTT)
+[![Build Status](https://travis-ci.org/mich561d/3rdYearExam.svg?branch=master)](https://travis-ci.org/mich561d/3rdYearExam)
 
-# CA3 - The Turtle Troopers
+# Exam
 
-## This is a boilerplate project, everything is setup, incase of problems in setup look here:
+## This is a boilerplate project base, everything is setup, incase of problems in setup look here:
 
 Preparing your Digital Ocean Droplet.
 Before you start you must have a Droplet with Tomcat, MySQL and Nginx as explained [here](https://docs.google.com/document/d/1pP1eLz1r-gxPhzzZcEyhQMKIiv_kxFkQKZu_XC8IjFg/edit).
